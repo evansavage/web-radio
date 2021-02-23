@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/web-radio/static/css/main.cb373f07.chunk.css",
-    "main.js": "/web-radio/static/js/main.300284e0.chunk.js",
-    "main.js.map": "/web-radio/static/js/main.300284e0.chunk.js.map",
+    "main.js": "/web-radio/static/js/main.accdc1f0.chunk.js",
+    "main.js.map": "/web-radio/static/js/main.accdc1f0.chunk.js.map",
     "runtime-main.js": "/web-radio/static/js/runtime-main.f63500ef.js",
     "runtime-main.js.map": "/web-radio/static/js/runtime-main.f63500ef.js.map",
     "static/js/2.a96e4973.chunk.js": "/web-radio/static/js/2.a96e4973.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.f63500ef.js",
     "static/js/2.a96e4973.chunk.js",
     "static/css/main.cb373f07.chunk.css",
-    "static/js/main.300284e0.chunk.js"
+    "static/js/main.accdc1f0.chunk.js"
   ]
 }

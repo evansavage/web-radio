@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/web-radio/static/css/main.cb373f07.chunk.css",
-    "main.js": "/web-radio/static/js/main.accdc1f0.chunk.js",
-    "main.js.map": "/web-radio/static/js/main.accdc1f0.chunk.js.map",
-    "runtime-main.js": "/web-radio/static/js/runtime-main.f63500ef.js",
-    "runtime-main.js.map": "/web-radio/static/js/runtime-main.f63500ef.js.map",
-    "static/js/2.a96e4973.chunk.js": "/web-radio/static/js/2.a96e4973.chunk.js",
-    "static/js/2.a96e4973.chunk.js.map": "/web-radio/static/js/2.a96e4973.chunk.js.map",
-    "static/js/3.35452641.chunk.js": "/web-radio/static/js/3.35452641.chunk.js",
-    "static/js/3.35452641.chunk.js.map": "/web-radio/static/js/3.35452641.chunk.js.map",
+    "main.css": "/web-radio/static/css/main.ab9dae29.chunk.css",
+    "main.js": "/web-radio/static/js/main.22b45a7b.chunk.js",
+    "main.js.map": "/web-radio/static/js/main.22b45a7b.chunk.js.map",
+    "runtime-main.js": "/web-radio/static/js/runtime-main.1e428cdd.js",
+    "runtime-main.js.map": "/web-radio/static/js/runtime-main.1e428cdd.js.map",
+    "static/js/2.874d2d70.chunk.js": "/web-radio/static/js/2.874d2d70.chunk.js",
+    "static/js/2.874d2d70.chunk.js.map": "/web-radio/static/js/2.874d2d70.chunk.js.map",
+    "static/js/3.36416219.chunk.js": "/web-radio/static/js/3.36416219.chunk.js",
+    "static/js/3.36416219.chunk.js.map": "/web-radio/static/js/3.36416219.chunk.js.map",
     "index.html": "/web-radio/index.html",
-    "static/css/main.cb373f07.chunk.css.map": "/web-radio/static/css/main.cb373f07.chunk.css.map",
-    "static/js/2.a96e4973.chunk.js.LICENSE.txt": "/web-radio/static/js/2.a96e4973.chunk.js.LICENSE.txt",
+    "static/css/main.ab9dae29.chunk.css.map": "/web-radio/static/css/main.ab9dae29.chunk.css.map",
+    "static/js/2.874d2d70.chunk.js.LICENSE.txt": "/web-radio/static/js/2.874d2d70.chunk.js.LICENSE.txt",
     "static/media/Fonts.css": "/web-radio/static/media/CatV_6x12_9.1d6e5934.ttf",
     "static/media/pause.2490bb6e.svg": "/web-radio/static/media/pause.2490bb6e.svg",
     "static/media/play.405138f8.svg": "/web-radio/static/media/play.405138f8.svg",
     "static/media/trt_logo_small.d0be214e.png": "/web-radio/static/media/trt_logo_small.d0be214e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f63500ef.js",
-    "static/js/2.a96e4973.chunk.js",
-    "static/css/main.cb373f07.chunk.css",
-    "static/js/main.accdc1f0.chunk.js"
+    "static/js/runtime-main.1e428cdd.js",
+    "static/js/2.874d2d70.chunk.js",
+    "static/css/main.ab9dae29.chunk.css",
+    "static/js/main.22b45a7b.chunk.js"
   ]
 }
